@@ -72,5 +72,5 @@ src/
 ---
 
 <p align="center">
-  Made with 💜 for 2026 by Barshan_249
+  Made for 2026 by Barshan Majumdar
 </p>
